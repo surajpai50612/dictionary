@@ -44,6 +44,10 @@ gem "bootsnap", require: false
 
 gem 'simplecov', require: false, group: :test
 
+gem 'rest-client', '~> 2.1'
+
+gem 'devise'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
